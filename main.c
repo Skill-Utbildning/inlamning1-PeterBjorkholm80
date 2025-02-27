@@ -8,6 +8,7 @@ int main()
 
     /* -- Solution from here -- */
 
+    
     // Create a variable to store values
     int dice_rolls[100];
     for (int i = 0; i < 100; i++){
